@@ -2,9 +2,11 @@
 
 This is the code for paper
 
-[Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation](https://arxiv.org/abs/2308.13934) by 
+[Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation](PatchGrid.github.io) by 
 
 Guying Lin, Lei Yang, Congyi Zhang, Hao Pan, Yuhan Ping, Guodong Wei, Taku Komura, John Keyser, Wenping Wang
+
+For full details, please check out our [paper link](https://arxiv.org/abs/2308.13934).
 
 ## Introduction
 
