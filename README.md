@@ -4,13 +4,9 @@
 
 This repository contains the code accompanying the paper
 
-[Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation](PatchGrid.github.io) by
+[Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation](https://arxiv.org/abs/2308.13934).
 
-Guying Lin, Lei Yang, Congyi Zhang, Hao Pan, Yuhan Ping, Guodong Wei, Taku Komura, John Keyser, and Wenping Wang
-
-For full details, please refer to our [paper link](https://arxiv.org/abs/2308.13934).
-
-The paper has been accepted and published in *ACM Transactions on Graphics* (**TOG**), Vol. 44, No. 2, April 2025, Article 16. [ACM Digital Library](https://doi.org/10.1145/3727142)
+The paper has been accepted and published in **ACM Transactions on Graphics**.
 
 Our test data and results are available at [this link](https://1drv.ms/f/c/a4366e97cdb15c82/EpkFfjvSUJ9IgJfeZzMOEQYBqA6iKpu7pnrS_Hog4fnF-g?e=pJUpTQ). You can download the data for training or obtain the results to view the visual effects.
 
