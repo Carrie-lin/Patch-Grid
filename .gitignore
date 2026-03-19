@@ -1,0 +1,42 @@
+# ignore all . files and . folders
+.*
+./__pycache__
+__pycache__
+data/* 
+debug
+_results/logs/*
+extraction/mesh_repair
+extraction/FastAndRobustMeshArrangements/build
+extraction/patch_split/build
+*.obj
+*.png
+cmake-3.29.0
+_results/test_data
+metrics/MeshFeatureSample
+*.jpg
+*.bz2
+*.pth
+*.json
+*.ply
+*.conf
+*.zip
+saved
+download
+res
+*.xyz
+*.bin
+res_minmax_no_distributive
+results
+*.json
+*.yml
+abc_data
+field_points
+field_gt
+
+
+# Dont ignore .gitignore (this file)
+# This is just for verbosity, you can leave it out if
+# .gitignore is already tracked or if you use -f to
+# force-add it if you just created it
+!/.gitignore
+

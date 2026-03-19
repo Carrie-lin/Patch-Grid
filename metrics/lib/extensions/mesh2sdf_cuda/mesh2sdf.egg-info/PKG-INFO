@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mesh2sdf
+Version: 0.1.0
+Summary: Fast CUDA kernel for computing SDF of triangle mesh
+Home-page: https://github.com/zekunhao1995/DualSDF
+Author: Zekun Hao et al.
+License: MIT
+Platform: UNKNOWN
+License-File: NOTICE
+
+UNKNOWN
+

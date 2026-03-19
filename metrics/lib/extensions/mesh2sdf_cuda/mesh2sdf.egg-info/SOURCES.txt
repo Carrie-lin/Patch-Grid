@@ -1,0 +1,7 @@
+NOTICE
+mesh2sdf_kernel.cu
+setup.py
+mesh2sdf.egg-info/PKG-INFO
+mesh2sdf.egg-info/SOURCES.txt
+mesh2sdf.egg-info/dependency_links.txt
+mesh2sdf.egg-info/top_level.txt
