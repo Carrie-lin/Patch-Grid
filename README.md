@@ -1,7 +1,5 @@
 # Patch-Grid (TOG 2025)
 
----
-
 This repository contains the code accompanying the paper
 
 [Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation](https://arxiv.org/abs/2308.13934).
